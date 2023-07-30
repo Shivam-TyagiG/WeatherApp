@@ -2,7 +2,7 @@
   "name": "full",
   "homepage": "https://Shivam-TyagiG.github.io/Webproject",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
